@@ -111,9 +111,10 @@ body{
 }
 
 .header .logo img{
-    width: 100%;
-    height: 8rem;
+    width: 15%;
+    height: 15%;
     margin-left: 4rem;
+    /* margin-top: -4rem; */
     top: 0;
     left: 0;
     /* title: '深圳飞拓星驰科技有限公司'; */
@@ -463,7 +464,7 @@ body{
 .communicate{
     text-align: center;
     align-items: center;
-    background-image: url(../images/img8.jpg);
+    background-image: url(../images/img2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
